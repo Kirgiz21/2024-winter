@@ -1,40 +1,40 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js: 👂 heard
+  - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and slocking code
-  - Event loop: phases
+  - Event loop: phases: 👂 heard
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules: 👂 heard
   - ECMAScript modules
-  - node:module
+  - node:module: 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🎓 known
+  - Dependencies: package.json and package lock: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 👂 heard
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
+  - Streams API: 👂 heard
+  - Web Streams API: 👂 heard
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
@@ -50,8 +50,8 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
+  - node:worker_threads: 👂 heard
+  - node:child_process: 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
@@ -63,11 +63,11 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 👂 heard
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
@@ -75,12 +75,12 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS: 🎓 known
+  - Fetch API: 👂 heard
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -95,8 +95,8 @@
   - Application configuring
   - Testing
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - back pressure
   - Buffer
@@ -107,21 +107,21 @@
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 👂 heard
+  - Repository: 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🎓 known
+  - error.cause: 👂 heard
+  - error.code: 🎓 known
+  - error.message: 🎓 known
+  - error.stack: 👂 heard
   - How to avoid mixins
-  - Error.captureStackTrace
+  - Error.captureStackTrace: 👂 heard
   - Uncaught exceptions
-  - Heap dump
+  - Heap dump: 👂 heard
   - Debugging tools
   - Flame graph
   - Memory leaks
