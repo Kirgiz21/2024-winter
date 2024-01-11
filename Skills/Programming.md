@@ -1,63 +1,63 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Code
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 👂 heard
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
+  - Semantics: 👂 heard
+  - Code: 🎓 known
+  - Programm: 🎓 known
+  - Programming paradigm: 🎓 known
+  - Programming language: 🎓 known
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
+  - Control flow: 👂 heard
+  - Data flow: 👂 heard
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
+  - value: 🖐 used
+  - identifier: 🖐 used
+  - variable: 🖐 used
+  - constant: 🎓 known
+  - scalar: 👂 heard
+  - literal: 🎓 known
+  - expression: 🎓 known
+  - heap: 🎓 known
+  - function: 🖐 used
+  - procedure: 👂 heard
+  - method: 🖐 used
+  - class: 🖐 used
+  - prototype: 🎓 known
+  - event: 🎓 known
+  - type: 🖐 used
+  - primitive types: 🎓 known
+  - reference types: 🎓 known
+  - flag: 👂 heard
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops: 👂 heard
   - assignment
-  - regular expression
-  - interface
+  - regular expression: 👂 heard
+  - interface: 🖐 used
   - contract
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
+  - signature: 🎓 known
+  - argument: 🖐 used
+  - parameter: 🖐 used
+  - pure function: 👂 heard
+  - lambda expression: 👂 heard
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
-  - listener
+  - recursion: 👂 heard
+  - callback: 🎓 known
+  - listener: 👂 heard
   - compose
   - pipe
   - memoize
@@ -68,47 +68,47 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
+  - array: 🖐 used
+  - structure: 🎓 known
+  - record: 👂 heard
+  - enum: 🖐 used
+  - instance: 🎓 known
+  - object: 🖐 used
+  - class: 🖐 used
+  - collection: 🖐 used
+  - set: 🎓 known
+  - hash table: 🎓 known
+  - linked list: 🖐 used
+  - doubly list: 🖐 used
   - unrolled list
-  - circular list
-  - queue
-  - stack
+  - circular list: 🖐 used
+  - queue: 🖐 used
+  - stack: 🖐 used
   - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
+  - tree: 🖐 used
+  - graph: 👂 heard
+  - iterator: 🖐 used
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
   - serialization
-  - string parsing
+  - string parsing: 🖐 used
 - Process & style
-  - compiler
+  - compiler: 🎓 known
   - transpiler
   - linter
   - polyfill
-  - debugger
-  - garbage collection
+  - debugger: 🎓 known
+  - garbage collection: 🎓 known
   - refactoring
   - code review
-  - antipatterns
-  - paradigm
+  - antipatterns: 👂 heard
+  - paradigm: 👂 heard
   - algorithm
   - magic numbers
   - hardcode
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti: 👂 heard
   - silver bullet
   - not invented here
   - dead code
@@ -117,5 +117,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 🖐 used
+  - github: 🖐 used
