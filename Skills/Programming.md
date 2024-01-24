@@ -3,24 +3,24 @@
 - Concepts
   - Model: 🎓 known
   - Modeling: 🎓 known
-  - Subject domain: 👂 heard
+  - Subject domain: 
   - Algorithm: 🎓 known
   - Syntax: 🎓 known
-  - Semantics: 👂 heard
+  - Semantics:
   - Code: 🎓 known
   - Programm: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
   - Software engineering: 🎓 known
   - Decomposition: 🎓 known
-  - Control flow: 👂 heard
-  - Data flow: 👂 heard
+  - Control flow: 
+  - Data flow: 
 - Syntax and concepts
   - value: 🖐 used
   - identifier: 🖐 used
   - variable: 🖐 used
   - constant: 🎓 known
-  - scalar: 👂 heard
+  - scalar: 
   - literal: 🎓 known
   - expression: 🎓 known
   - heap: 🎓 known
@@ -28,16 +28,16 @@
   - procedure: 👂 heard
   - method: 🖐 used
   - class: 🖐 used
-  - prototype: 🎓 known
-  - event: 🎓 known
+  - prototype: 
+  - event: 
   - type: 🖐 used
   - primitive types: 🎓 known
   - reference types: 🎓 known
-  - flag: 👂 heard
+  - flag: 
   - lexical scope
   - code block
   - conditions
-  - loops: 👂 heard
+  - loops: 
   - assignment
   - regular expression: 👂 heard
   - interface: 🖐 used
@@ -48,15 +48,15 @@
   - signature: 🎓 known
   - argument: 🖐 used
   - parameter: 🖐 used
-  - pure function: 👂 heard
+  - pure function: 
   - lambda expression: 👂 heard
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion: 👂 heard
-  - callback: 🎓 known
+  - recursion: 
+  - callback: 
   - listener: 👂 heard
   - compose
   - pipe
@@ -72,7 +72,7 @@
   - structure: 🎓 known
   - record: 👂 heard
   - enum: 🖐 used
-  - instance: 🎓 known
+  - instance: 
   - object: 🖐 used
   - class: 🖐 used
   - collection: 🖐 used
@@ -88,8 +88,8 @@
   - tree: 🖐 used
   - graph: 👂 heard
   - iterator: 🖐 used
-  - mutable state: 🎓 known
-  - immutable state: 🎓 known
+  - mutable state: 👂 heard
+  - immutable state: 👂 heard
   - serialization
   - string parsing: 🖐 used
 - Process & style
@@ -102,13 +102,13 @@
   - refactoring
   - code review
   - antipatterns: 👂 heard
-  - paradigm: 👂 heard
+  - paradigm: 
   - algorithm
   - magic numbers
   - hardcode
   - complexity
   - decomposition
-  - spaghetti: 👂 heard
+  - spaghetti: 
   - silver bullet
   - not invented here
   - dead code
@@ -117,5 +117,5 @@
   - exception
   - return early
   - unittest
-  - git: 🖐 used
-  - github: 🖐 used
+  - git: 
+  - github: 
