@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 👂 heard
+  - CommonJS modules:
   - ECMAScript modules
   - node:module: 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules: 🎓 known
-  - Dependencies: package.json and package lock: 🎓 known
+  - Dependencies: npm, node_modules:
+  - Dependencies: package.json and package lock: 
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection: 👂 heard
@@ -26,15 +26,15 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 👂 heard
+  - Command line arguments: 
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API: 👂 heard
-  - Web Streams API: 👂 heard
+  - Streams API:
+  - Web Streams API: 
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
@@ -50,8 +50,8 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads: 👂 heard
-  - node:child_process: 👂 heard
+  - node:worker_threads: 
+  - node:child_process: 
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
